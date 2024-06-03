@@ -1,4 +1,7 @@
 /*  your css code here. If applicable */
+#yellow, #red, #green {
+    border-style: solid;
+}
 #yellow {
 	background-color:yellow;
 	border-width:1px;
